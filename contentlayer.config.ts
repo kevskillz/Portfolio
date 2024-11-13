@@ -124,6 +124,7 @@ const Project = defineDocumentType(() => ({
   }
 }));
 
+
 const Page = defineDocumentType(() => ({
   name: 'Page',
   filePathPattern: `pages/**/*.md`,

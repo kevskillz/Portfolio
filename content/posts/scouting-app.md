@@ -9,7 +9,7 @@ author:
   name: 'Kevin Lobo'
   picture: 'https://avatars.githubusercontent.com/u/6662454?v=4'
 coverImage: '/images/scouting_app/web_home.png'
-slug: 'crafting-awesome-wordpress-site'
+slug: 'scouting-app'
 ---
 
 Check out the website here: https://scouting.team341.com/
@@ -28,19 +28,19 @@ To address these issues, I led the creation of a scouting app using the followin
 ## Android App
 We developed the Android app using Flutter. This allowed scouts to easily log robot data and create QR codes with the data. The use of QR codes was essential as competitions did not have Wi-Fi, so data had to be synced later. We used this to collect data about robots live during matches as well as information about them at their pits.
 
-![First Android](/images/scouting_app/first_android.png)
+![First Android](first_android.png)
 *Autofills team number by querying blue alliance API, which is preloaded and saved whenever WIFI is available*
 
-![Second Android](/images/scouting_app/second_android.png)
+![Second Android](second_android.png)
 *Tracks necessary data during autonomous period, noteably the locations of where notes are picked up. This data was very useful in ensuring compatible autos during alliance selection.*
 
-![Third Android](/images/scouting_app/third_android.png)
+![Third Android](third_android.png)
 *Tracks necessary data during teleoperated period. After this, the data is submitted and a QR code is generated to be scanned.*
 
 ## Scanning App
 The Flutter web app was used to scan QR codes from multiple tablet scouts using a Surface Pro which has a webcam. This ensured that all the data collected by different scouts could be consolidated efficiently. This also allowed us to locally store and push data to our MySQL database once we were connected to WIFI.
 
-![Scanning App](/images/scouting_app/scanning_app.png)
+![Scanning App](scanning_app.png)
 
 
 ## API
@@ -49,15 +49,15 @@ We used an Express.js API to sync, process, and query data from a MySQL database
 ## Website with Data Visualization
 The website was build with HTML/CSS/JS and visualized the data using the D3.js and Tabulator.js JavaScript libraries. This allowed us to create detailed and interactive visualizations of the collected data, which was essential for making informed decisions. We were also able to make match predictions and generate a pick list during alliance selection all on this website, making it super useful and accessible.
 
-![More Graphs](/images/scouting_app/more_graphs.png)
+![More Graphs](more_graphs.png)
 *These are examples of a few different graphs the website displays.*
-![Custom Graph](/images/scouting_app/custom_graph.png)
+![Custom Graph](custom_graph.png)
 *This allows the user to create a custom 2D graph to analyze various trends.*
 
-![Spider Graph](/images/scouting_app/spider_graph.png)
+![Spider Graph](spider_graph.png)
 *This shows specific information and strengths/weaknesses of one specific robot.*
 
-![Raw Data](/images/scouting_app/raw_data.png)
+![Raw Data](raw_data.png)
 *This queries and displays all the match data stored in the database.*
 
 
