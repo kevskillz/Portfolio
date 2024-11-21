@@ -1,7 +1,7 @@
 import '../styles/globals.css';
 
 import { Inter } from 'next/font/google'
-import { NextAuthProvider } from './admin/components/provider';
+import { NextAuthProvider } from './provider';
 
 import { SpeedInsights } from "@vercel/speed-insights/next"
 

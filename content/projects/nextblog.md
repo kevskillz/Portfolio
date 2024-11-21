@@ -1,5 +1,5 @@
 ---
-title: 'NextBlog'
+title: 'Scouting App & Website'
 status: 'published'
 author:
   name: 'Alex Pavlov '
@@ -7,11 +7,11 @@ author:
 slug: 'nextblog'
 description: ''
 coverImage: ''
-technologies: 'NextJS, Contentlayer, NextAuth, Giscus, GitHub API, Codemirror'
-github: 'https://github.com/pavlovtech/WebReaper'
-link: ''
+technologies: 'Express.js, SQL, Flutter, JavaScript, RESTful API, HTML/CSS, Android Studio'
+github: ''
+link: 'http://localhost:3000/blog/posts/scouting-app'
 publishedAt: '2023-09-29T18:38:58.465Z'
 ---
 
-Blog with SSG built with NextJs 13, Contentlayer, Giscus, NextAuth. It uses Github API for admin section that allows managing markdown files rendered with Codemirror.
+Led the full-stack development of mobile app to log robot performance and website for data analysis and visualization
 

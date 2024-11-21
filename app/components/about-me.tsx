@@ -36,7 +36,7 @@ export function AboutMe() {
           animationDelay={1000}
           animationDuration={2500}
         >
-          my stories and everything tech.&nbsp;
+          my stories and projects.&nbsp;
         </RoughNotation>
       </p>
     </div>

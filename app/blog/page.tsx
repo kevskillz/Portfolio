@@ -19,12 +19,12 @@ export const metadata = {
 
 export default function Home() {
 
-  const featuredPosts = allPosts
-    .filter(p => p.status == 'published' && p?.featured == 'yes')
-    .sort((a, b) => compareDesc(new Date(a.publishedAt), new Date(b.publishedAt)));
+  // const featuredPosts = allPosts
+  //   .filter(p => p.status == 'published' && p?.featured == 'yes')
+  //   .sort((a, b) => compareDesc(new Date(a.publishedAt), new Date(b.publishedAt)));
 
   const posts = allPosts
-    .filter(p => p.status == 'published' && (p?.featured == 'no' || !p?.featured))
+    .filter(p => p.status == 'published')
     .sort((a, b) => compareDesc(new Date(a.publishedAt), new Date(b.publishedAt)));
 
   return (
@@ -33,7 +33,7 @@ export default function Home() {
         <AboutMe />
         <IntroLinks />
       </section>
-      <section>
+      {/* <section>
         <h2 className="flex pb-6 text-3xl font-extrabold tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl md:text-5xl">
           Featured
         </h2>
@@ -43,7 +43,7 @@ export default function Home() {
         {featuredPosts.map((post, idx) => (
           <PostCard key={idx} {...post} />
         ))}
-      </section>
+      </section> */}
       <section>
         <h2 className="flex pb-6 text-3xl font-extrabold tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl md:text-5xl">
           Latest
