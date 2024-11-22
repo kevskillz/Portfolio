@@ -2,7 +2,7 @@
 title: 'Scouting App & Website'
 status: 'published'
 author:
-  name: 'Alex Pavlov '
+  name: 'Kevin Lobo '
   picture: 'https://avatars.githubusercontent.com/u/6662454?v=4'
 slug: 'nextblog'
 description: ''
@@ -14,4 +14,3 @@ publishedAt: '2023-09-29T18:38:58.465Z'
 ---
 
 Led the full-stack development of mobile app to log robot performance and website for data analysis and visualization
-

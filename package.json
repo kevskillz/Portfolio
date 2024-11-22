@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "author": {
-    "name": "Alex Pavlov",
-    "email": "alexppavlov93@gmail.com",
-    "url": "https://alexpavlov.dev"
+    "name": "Kevin Lobo",
+    "email": "kevinlobo327@gmail.com",
+    "url": "https://kevinlobo.us/"
   },
   "scripts": {
     "dev": "next dev",
