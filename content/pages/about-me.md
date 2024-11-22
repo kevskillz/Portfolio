@@ -3,7 +3,7 @@ title: 'About Me'
 status: 'published'
 author:
   name: 'Kevin Lobo'
-  picture: 'TODO ADD LINK TO PICTURE... CAN BE https://avatars.githubusercontent.com/u/6662454?v=4'
+  picture: 'TODO ADD LINK TO PICTURE...'
 slug: 'about-me'
 description: ''
 coverImage: ''
