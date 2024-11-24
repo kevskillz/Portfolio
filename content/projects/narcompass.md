@@ -1,5 +1,5 @@
 ---
-title: 'Scouting App & Website'
+title: 'NarCompass'
 status: 'published'
 author:
   name: 'Kevin Lobo '
