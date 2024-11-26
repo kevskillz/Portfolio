@@ -7,10 +7,10 @@ author:
 slug: 'nextblog'
 description: ''
 coverImage: ''
-technologies: 'Express.js, SQL, Flutter, JavaScript, RESTful API, HTML/CSS, Android Studio'
-github: ''
+technologies: 'Express.js, Flutter, JavaScript, SQL, RESTful API, HTML/CSS, Android Studio'
+github: 'https://github.com/kevskillz/341-Scouting'
 link: 'http://kevinlobo.us/blog/posts/scouting-app'
 publishedAt: '2023-09-29T18:38:58.465Z'
 ---
 
-Led the full-stack development of mobile app to log robot performance and website for data analysis and visualization
+Led the full-stack development of mobile app to log robot performance and website for data analysis and visualization.

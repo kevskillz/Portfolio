@@ -12,7 +12,7 @@ coverImage: '/images/scouting_app/web_home.png'
 slug: 'scouting-app'
 ---
 
-Check out the website here: https://scouting.team341.com/
+Check out the website here: https://scouting.team341.com/, and the GitHub here: https://github.com/kevskillz/341-Scouting/
 
 ***Note:** the API/Database is not up yet for this year since it is modified every year to match the game, so no data will be loaded* 
 
@@ -73,5 +73,3 @@ The scouting app resulted in:
 
 ## Conclusion
 Creating this scouting app was a game-changer for our team. It not only saved us time but also improved the accuracy of our data, which was crucial for making informed decisions during competitions.
-
-Thank you for reading! I hope you found this post insightful.

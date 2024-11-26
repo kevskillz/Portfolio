@@ -3,7 +3,7 @@ title: 'About Me'
 status: 'published'
 author:
   name: 'Kevin Lobo'
-  picture: 'TODO ADD LINK TO PICTURE...'
+  picture: ''
 slug: 'about-me'
 description: ''
 coverImage: ''

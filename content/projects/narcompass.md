@@ -7,10 +7,10 @@ author:
 slug: 'nextblog'
 description: ''
 coverImage: ''
-technologies: 'Express.js, SQL, Flutter, JavaScript, RESTful API, HTML/CSS, Android Studio'
-github: ''
-link: 'http://kevinlobo.us/blog/posts/scouting-app'
+technologies: 'React Native, AWS Amplify, GraphQL, Expo, Tensorflow, Express'
+github: 'https://github.com/kevskillz/narcompass/'
+link: 'http://kevinlobo.us/blog/posts/narcompass'
 publishedAt: '2023-09-29T18:38:58.465Z'
 ---
 
-Led the full-stack development of mobile app to log robot performance and website for data analysis and visualization
+Developed mobile app to connect Narcan carriers with overdose victims instantly to save lives.
