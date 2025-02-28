@@ -13,4 +13,4 @@ link: 'http://kevinlobo.us/blog/posts/narcompass'
 publishedAt: '2023-09-29T18:38:58.465Z'
 ---
 
-Developed mobile app to connect Narcan carriers with overdose victims instantly to save lives.
+A mobile app to connect Narcan carriers with overdose victims instantly to save lives.
