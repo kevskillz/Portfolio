@@ -7,7 +7,7 @@ author:
 slug: 'nextblog'
 description: ''
 coverImage: ''
-technologies: 'Next.js, Docker, Supabase, FastAPI, Python, AWS EC2, AWS S3, AWS ECR'
+technologies: 'Python, React, Flask, Node.js, Google Cloud, Firecrawl, Pinecone, Hugging Face'
 github: 'https://github.com/kevskillz/coastlens'
 link: 'https://devpost.com/software/rising-tide-a8he6n'
 publishedAt: '2022-09-29T18:38:58.465Z'
